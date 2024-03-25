@@ -1,0 +1,2 @@
+# DawnCraft Japanese Translation
+
